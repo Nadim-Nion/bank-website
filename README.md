@@ -11,12 +11,12 @@ This is a simple and responsive website for a fictional bank that offers various
 
 
 ### Demo
-You can view the live demo of the website here: https://example.com
+You can view the live demo of the website here: https://nadim-nion.github.io/bank-website/
 
 ### Installation
 To run the website locally, you need to have Node.js and npm installed on your machine. Then follow these steps:
 
-Clone this repository: git clone https://github.com/your-username/bank-website.git
+Clone this repository: git clone https://github.com/Nadim-Nion/bank-website
 Navigate to the project folder: cd bank-website
 Install the dependencies: npm install
 Start the development server: npm run dev
@@ -26,6 +26,9 @@ Open your browser and go to http://localhost:3000
 
 
 ## Live Website
+GitHub Pages: https://nadim-nion.github.io/bank-website/
+
+
 ## Deployment
 
 To deploy this project run:
