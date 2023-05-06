@@ -4,9 +4,7 @@
 This is a simple and responsive website for a fictional bank that offers various financial services. It is built with HTML5, Tailwind CSS and JavaScript.
 
 ### Features
-* A landing page with a navigation bar, a hero section, a testimonial section and a footer.
 * A landing page with login from. You have to login with reserved email and password to go through the next page
-* A login page with a form validation and a toggle button to switch between light and dark mode.
 * A dashboard page with a sidebar, a balance card, a deposit and a withdraw.
 
 
